@@ -1,0 +1,32 @@
+bug::
+package main
+
+import (
+  "fmt"
+  "sync"
+  "time"
+)
+
+func main() {
+  wg := new(sync.WaitGroup)
+  messages := make(chan string)
+
+  // Start messageReceiever goroutines
+  for x := 1; x <= 4; x++ {
+    wg.Add(1)
+    go messageReceiever(x, wg, &messages)
+  }
+
+  // Read from the messages channel
+  for msg := range messages {
+    fmt.Println(msg)
+  }
+  wg.Wait()
+  close(messages)
+}
+
+func messageReceiever(count int, wg *sync.WaitGroup, messages *chan string) {
+  defer wg.Done()
+  time.Sleep(time.Millisecond * time.Duration(1000))
+  *messages <- fmt.Sprintf("John Wick: %d", count)
+}
