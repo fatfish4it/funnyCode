@@ -1,0 +1,101 @@
+2536_536_%!d(string=682a24)_10728_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)
+2414_314_10728_3773b4_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)
+2898_533_13840_0c0c0c_C:\Windows\System32\cmd.exe - go  run test.go
+2898_533_13840_0c0c0c_C:\Windows\System32\cmd.exe - go  run test.go
+2898_533_13840_0c0c0c_C:\Windows\System32\cmd.exe - go  run test.go
+2898_533_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)
+3443_852_13840_0c0c0c_C:\Windows\System32\cmd.exe - go  run test.go
+
+
+2700_399_2960_282923_C:\WINDOWS\system32\cmd.exe
+2826_774_2824_282923_C:\WINDOWS\system32\cmd.exe
+2067_442_12220_384953_C:\WINDOWS\system32\cmd.exe
+2067_442_6096_384953_C:\WINDOWS\system32\cmd.exe
+2067_442_6324_384953_C:\WINDOWS\system32\cmd.exe
+2907_685_3872_282923_C:\WINDOWS\system32\cmd.exe
+2907_685_2308_282923_C:\WINDOWS\system32\cmd.exe
+
+
+3641_726_13784_ffffff_O:\test_go\_here\test.exe
+3555_777_7184_ffffff_O:\test_go\_here\test.exe
+2258_379_10856_ffffff_C:\WINDOWS\system32\cmd.exe
+2258_379_11284_ffffff_下载内容 - Google Chrome
+
+
+2255_565_7576_282a3d_C:\WINDOWS\system32\cmd.exe
+2543_691_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)
+2584_696_5388_282923_C:\WINDOWS\system32\cmd.exe
+2727_930_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2533_382_10728_373995_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2711_407_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2637_614_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2632_467_10728_287ec1_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2875_763_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2588_754_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+2561_381_10728_373833_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2697_688_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2694_578_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2629_675_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+2120_615_9912_333649_C:\WINDOWS\system32\cmd.exe	
+2565_646_12080_282923_C:\WINDOWS\system32\cmd.exe	
+1483_556_7884_f56c6c_C:\WINDOWS\system32\cmd.exe	
+2577_390_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+2483_660_10728_f8e2a9_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+[2022-05-31 09:24:56] 2085_673_9644_333448_C:\WINDOWS\system32\cmd.exe	
+[2022-05-31 09:36:44] 2527_656_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+[2022-05-31 09:36:53] 2107_449_11284_394752_Citrix Gateway - Google Chrome	
+[2022-05-31 09:37:06] 2095_658_11284_343549_Citrix Gateway - Google Chrome	
+[2022-05-31 09:37:22] 2734_1054_7808_f2f6fc_任务视图	
+[2022-05-31 09:38:54] 2132_435_4396_3a4853_C:\WINDOWS\system32\cmd.exe	
+2896cb2156deac69798f92080904495c[2022-05-31 10:05:05] 2606_624_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+e6af9c57e6e75e50c8eaa692c61391dd[2022-05-31 10:05:21] 3245_422_11132_282923_C:\WINDOWS\system32\cmd.exe	
+bfb1152bde939996bcf489b718a1a34a[2022-05-31 10:05:26] 3245_422_14820_282923_C:\WINDOWS\system32\cmd.exe	
+6c87e0edea60b5e96eb462943a8a1ddd[2022-05-31 10:05:36] 3303_434_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+271378612dfa8498367570eb5db1fe2f[2022-05-31 10:05:42] 3303_434_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+b3c9424bc54e818a4a9087d79535ee78[2022-05-31 10:08:05]2604_823_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+b3c9424bc54e818a4a9087d79535ee78[2022-05-31 10:08:10]2604_823_10728_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+3e01ebe956d10235eef3e843592d3767[2022-05-31 10:10:17]2843_710_11612_282923_C:\WINDOWS\system32\cmd.exe	
+aa085e17727cd26cd0db642d9548457e[2022-05-31 10:10:25]3008_738_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+aa085e17727cd26cd0db642d9548457e[2022-05-31 10:10:31]3008_738_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+aa085e17727cd26cd0db642d9548457e-[2022-05-31 10:11:33]3008_738_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+aa085e17727cd26cd0db642d9548457e[2022-05-31 10:11:57]3008_738_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+aa085e17727cd26cd0db642d9548457e[2022-05-31 10:12:01]3008_738_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+62484800907e868a85c7f49bdbb77c31[2022-05-31 10:14:17]2330_634_4140_282923_C:\WINDOWS\system32\cmd.exe	
+3a63226a6b100c1db7b052fe2473021d[2022-05-31 10:14:23]2330_634_8628_282923_C:\WINDOWS\system32\cmd.exe	
+616f8781bed61cb32311ef5f9ab2bf39[2022-05-31 10:14:27]2330_634_4440_282923_C:\WINDOWS\system32\cmd.exe	
+e02a85d5a8314e840fec5167fd3c802b[2022-05-31 10:16:48]886_461_5252_0c0c0c_C:\WINDOWS\system32\cmd.exe	
+
+ccef4228004a775b2cc995505ca156a2[2022-05-31 10:17:47]2006_244_11284_3d515a_Citrix Gateway - Google Chrome	
+ccef4228004a775b2cc995505ca156a2[2022-05-31 10:17:56]2006_244_11284_3d515a_Citrix Gateway - Google Chrome	
+ccef4228004a775b2cc995505ca156a2[2022-05-31 10:38:02]2006_244_11284_3d515a_Citrix Gateway - Google Chrome	
+
+ec8513e262a89744803f3e836e9c37a7[2022-05-31 10:41:55]2269_700_4580_282923_C:\WINDOWS\system32\cmd.exe	
+
+c1114ca65be09af5cd1eb9853688f1f8[2022-05-31 10:42:13]2830_790_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+c1114ca65be09af5cd1eb9853688f1f8[2022-05-31 10:42:17]2830_790_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+c1114ca65be09af5cd1eb9853688f1f8[2022-05-31 10:42:24]2830_790_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+d788741bd5f4ac75e865b220d196a276[2022-05-31 10:49:44]2337_802_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+d788741bd5f4ac75e865b220d196a276[2022-05-31 10:49:48]2337_802_10728_282923_O:\test_go\_here\log_a.txt - Sublime Text (UNREGISTERED)	
+70ba5533eff772f0b9d97cfaba9f2237[2022-05-31 10:49:52]3601_749_11284_636154_Citrix Gateway - Google Chrome	
+70ba5533eff772f0b9d97cfaba9f2237[2022-05-31 10:49:55]3601_749_11284_636154_Citrix Gateway - Google Chrome	
+
+
+27a68e45178253a3ae6eef027d075709[2022-05-31 10:54:42]2579_825_6508_282923_C:\WINDOWS\system32\cmd.exe	
+e18e31e108295167b4cc3736f4b0fe00[2022-05-31 10:59:05]2043_736_14956_393546_C:\WINDOWS\system32\cmd.exe	
+c7e43b68435bc4d31eb35241ffb2d028[2022-05-31 10:59:12]2503_781_5700_616660_C:\WINDOWS\system32\cmd.exe	
+aea22977168a8e1c43ffc8b2c80afb26[2022-05-31 11:04:56]2308_589_5104_ffffff_C:\WINDOWS\system32\cmd.exe	
+b9264a833fd28250057d4e52553bb872[2022-06-03 17:18:48]2797_651_15592_282923_O:\test_go\_here\test.go - Sublime Text (UNREGISTERED)	
+8e5b5e688f469ad086e4fe3cf28cdc35[2022-06-08 10:36:21]2384_423_6364_282923_C:\WINDOWS\system32\cmd.exe	
+c2679f8e2a3f332597535e728cf0a58f[2022-07-06 13:55:53]733_787_3352_2e3238_O:\test_go\_to_log\test.go - Sublime Text (UNREGISTERED)	
+3a86c7f55676526c4f1731f1c4ae2330[2022-07-06 13:56:15]742_151_3352_282923_O:\test_go\_to_log\test.go - Sublime Text (UNREGISTERED)	
+e34966e94221f1f502643cc231718b62[2022-07-06 13:56:27]0_0_3352_000000_O:\test_go\_to_log\test.go - Sublime Text (UNREGISTERED)	
+146b92abbc95ce3d7fcd312d38738e9d[2022-07-06 14:03:49]686_551_27492_0c0c0c_C:\WINDOWS\system32\cmd.exe	
+fa7593368359a9143f2e7765430ef397[2022-07-19 11:54:48]383_715_3352_282923_O:\test_go\testRun.ahk ? - Sublime Text (UNREGISTERED)	
+2e1f371e36a68f6bff09f56206ce737a[2022-07-27 11:27:48]1649_900_20112_f3f6fb_RDGolang - Desktop Viewer	
+6155d52d66dc6581f625532eb1dfa29f[2022-07-27 11:28:45]974_688_18152_fffeff_C:\WINDOWS\system32\cmd.exe	
+7fe71628d4c2a54f74b7a9c4c203e2ea[2022-07-27 11:28:53]1007_1053_33120_dbdcde_C:\WINDOWS\system32\cmd.exe	
+6101d44af3af2606fd61bb9168a36199[2022-07-27 11:41:45]1207_1064_29644_dedfe2_C:\WINDOWS\system32\cmd.exe	
+308dbc3fd8e93ec1e60c95ce87dececb[2022-07-27 11:42:04]875_353_36420_0c0c0c_C:\WINDOWS\system32\cmd.exe	
+452a9739097afbe08cb84774f24a486b[2022-07-27 11:42:23]1741_1049_22788_e9e9e9_C:\WINDOWS\system32\cmd.exe	
+3c5f5f117c31913db093a8e581ef7d65[2023-05-12 15:04:55]814_829_4084_282923_O:\test_go\_to_log\test.go - Sublime Text (UNREGISTERED)	
+04b53e5a9915f0824199160bba25150d[2023-05-12 15:05:46]776_855_4084_282923_O:\test_go\_to_log\test.go - Sublime Text (UNREGISTERED)	

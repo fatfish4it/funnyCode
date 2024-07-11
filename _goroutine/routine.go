@@ -39,6 +39,11 @@ func main() {
 	}
 	whoIsNo1 := <-ch
 	fmt.Printf("No.1 pt:[%d]\n", whoIsNo1)
+
+	//简化后类似json的打印：
+	fmt.Printf("portList-v:%v\n", portList)
+	//直接可用的打印：
+	fmt.Printf("portList-#v:%#v\n", portList)
 	//rt.catchContent(18003)
 }
 
@@ -118,3 +123,4 @@ func (rt *RoutineTool) receiveItems(in chan int) {
 		fmt.Printf("See InOut %d \n", v)
 	}
 }
+
